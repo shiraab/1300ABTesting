@@ -13,6 +13,20 @@ header {
 	padding-left: 40px;
 	padding-top: 20px;
 	padding-bottom: 20px;
+	border-radius: 15px;
+}
+
+.vendor-wrapper.b {
+	border: 1px solid black;
+	border-radius: 8px;
+	margin-bottom: 8px;
+	/* background-color: white;
+	opacity: 50%; */
+	background: rgba(255, 255, 255, 0.5);
+}
+
+.vendor-wrapper img {
+	opacity: 100%;
 }
 
 .vendor-photo {
